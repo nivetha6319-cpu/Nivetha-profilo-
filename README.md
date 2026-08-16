@@ -1,9 +1,5 @@
-# Nivetha Portfolio 👋
-
-Hi! Naan Nivetha. Web Developer.
-
-## Projects
-- LabGeni
-
-## Contact
-nivetha6319@gmail.Com
+# Nivetha Portfolio 👋my-portfolio/
+ ├── public/
+ │    └── myvideo.mp4
+ ├── index.html
+ └── ...
